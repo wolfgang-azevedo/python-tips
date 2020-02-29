@@ -21,7 +21,7 @@ Dowloand and follow the steps | Baixe e siga os passos de instalação
 https://www.python.org/ftp/python/3.8.2/python-3.8.2-macosx10.9.pkg
 
 
-# How To use the scripts
+# How To use the scripts | Como utilizar os scripts
 
 Just run with the python CLI command or from your IDE | Só rodar utilizando o comando python ou utilizando o seu IDE de preferência.
 
