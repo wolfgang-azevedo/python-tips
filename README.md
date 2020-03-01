@@ -1,5 +1,5 @@
 # Python Tips (30 days)
-Python Tips with short code samples for 30 days knowledge | Dicas de Python com pequenos exemplos de código para aprendizado durante 30 dias!
+Python Tips with short code samples for 30 days knowledge (upload will start on Feb 28th up to March 28th) | Dicas de Python com pequenos exemplos de código para aprendizado durante 30 dias! (Upload começa no dia 28 Fev até o dia 28 Mar)
 
 
 # Installation Links | Links de Instalação
