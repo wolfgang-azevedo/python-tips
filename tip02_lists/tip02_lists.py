@@ -6,9 +6,9 @@
 # https://github.com/wolfgang-azevedo/python-tips
 #
 # Lists
+# 2020-02-29
 #
 ########################################
-#
 #
 #
 list_02 = ['Charlie Chaplin', 'Vincent van Gogh', 'Wolfgang A. Mozart', 'Ludwig van Beethoven']
